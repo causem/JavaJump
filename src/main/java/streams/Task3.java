@@ -8,6 +8,7 @@ public class Task3 {
     public static void main(String[] args) {
 
         List<Integer> nums = List.of(1, 2, 3, 4);
+
         List<Integer> squareNums = nums.stream()
                 .map(n -> n * n)
                 .collect(Collectors.toList());
