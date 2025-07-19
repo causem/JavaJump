@@ -1,0 +1,4 @@
+Sprawdzanie wieku – własny wyjątek
+·Napisz metodę registerPerson(int age), która sprawdza, czy osoba może się zarejestrować.
+·Jeśli wiek jest mniejszy niż 18, rzuć własny wyjątek TooYoungException.
+·W przeciwnym razie wypisz: „Rejestracja zakończona sukcesem”.

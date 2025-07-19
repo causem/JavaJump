@@ -1,0 +1,4 @@
+ Obsługa niepoprawnych danych przy tworzeniu Task
+·Stwórz własny wyjątek InvalidTaskException.
+·Rzuć go w konstruktorze Task, jeśli title jest pusty lub dueDate jest w przeszłości.
+·Obsłuż wyjątek w metodzie main i wypisz przyjazny komunikat.
