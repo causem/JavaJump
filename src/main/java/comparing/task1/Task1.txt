@@ -1,0 +1,4 @@
+Book – porównywanie obiektów (equals() i hashCode())
+Opis:Utwórz klasę Book z polami: title, author, year.
+Dwie książki są uznawane za równe, jeśli mają ten sam tytuł i autora.
+Zaimplementuj equals() i hashCode(). Następnie dodaj obiekty do HashSet i sprawdź, czy duplikaty są ignorowane.

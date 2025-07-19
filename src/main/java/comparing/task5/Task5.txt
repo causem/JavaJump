@@ -1,0 +1,3 @@
+Product – sortowanie po cenie i ocenie (Comparator łańcuchowy)
+Opis:Utwórz klasę Product z polami: name, price, rating.
+Posortuj produkty najpierw po cenie rosnąco, a jeśli ceny są równe, to po ocenie malejąco.

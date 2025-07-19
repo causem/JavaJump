@@ -1,0 +1,2 @@
+Sortowanie liczb całkowitych
+Wczytaj 5 liczb od użytkownika, zapisz je do tablicy i posortuj rosnąco. Użyj Arrays.sort().

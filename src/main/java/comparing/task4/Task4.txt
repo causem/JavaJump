@@ -1,0 +1,4 @@
+ Employee – unikalność po ID (equals() i hashCode())
+Opis:Utwórz klasę Employee z polami: id, name, position.
+Pracownicy są uznawani za równych, jeśli mają ten sam id.
+Zaimplementuj equals() i hashCode() tak, aby HashSet nie dodawał duplikatów.

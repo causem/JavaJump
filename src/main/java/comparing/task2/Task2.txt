@@ -1,0 +1,4 @@
+Student – sortowanie wg ocen (Comparable)
+Opis:Utwórz klasę Student z polami name i averageGrade.
+Zaimplementuj interfejs Comparable<Student>, aby posortować studentów malejąco po średniej ocen.
+Użyj Collections.sort().

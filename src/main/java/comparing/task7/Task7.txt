@@ -1,0 +1,3 @@
+Sortowanie obiektów po wieku (Comparator)
+Utwórz klasę Osoba z polami imie i wiek.
+Stwórz listę 3 osób i posortuj je według wieku rosnąco przy użyciu Comparator.
