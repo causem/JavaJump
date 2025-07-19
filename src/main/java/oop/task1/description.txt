@@ -1,0 +1,2 @@
+1.Stwórz klasę Animal z metodą makeSound(),
+a następnie klasy Dog i Cat dziedziczące z Animal, nadpisujące makeSound().

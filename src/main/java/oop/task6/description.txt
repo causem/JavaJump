@@ -1,0 +1,2 @@
+Polimorfizm: stwórz listę List<Animal>, dodaj obiekty Dog i Cat,
+a następnie wywołaj makeSound() w pętli.

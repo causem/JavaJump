@@ -1,0 +1,2 @@
+Utwórz interfejs Playable z metodą play().
+Stwórz klasę Guitar implementującą Playable i wyświetlającą „Guitar is playing”.

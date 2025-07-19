@@ -1,0 +1,2 @@
+Stwórz klasę abstrakcyjną Payment, zawierającą abstrakcyjną metodę processPayment().
+Utwórz klasy CreditCardPayment i PaypalPayment implementujące ją.

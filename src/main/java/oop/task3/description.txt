@@ -1,0 +1,2 @@
+Stwórz klasę Vehicle z polem speed i metodą move(),
+a następnie klasę Car dziedziczącą Vehicle, nadpisującą move() wyświetlającą prędkość.

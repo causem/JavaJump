@@ -1,0 +1,2 @@
+Utwórz interfejs Shape z metodą area().
+Zaimplementuj Circle i Rectangle, obliczając odpowiednio pola powierzchni.

@@ -1,0 +1,6 @@
+Zadanie: Utworzenie klasy Project agregującej Task
+• Task powinna zawierać title, dueDate, status.
+• Project powinna mieć name oraz listę zadań List<Task>.
+• Zaimplementuj metodę addTask(Task task) w Project.
+• Utwórz klasę bazową Item z title, a Task może ją dziedziczyć.
+• Stwórz interfejs Completable z metodą complete(), którą Task zaimplementuje.
