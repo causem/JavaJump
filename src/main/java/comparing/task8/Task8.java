@@ -1,7 +1,7 @@
 package comparing.task8;
 
 import java.util.ArrayList;
-import java.util.Comparator;
+import java.util.Collections;
 import java.util.List;
 
 public class Task8 {
@@ -11,7 +11,7 @@ public class Task8 {
 
         List<String> sortedNames = new ArrayList<>(names);
 
-        sortedNames.sort(Comparator.comparing(String::toString));
+        Collections.sort(sortedNames);
 
         System.out.println("Sorted names ascending:");
         for (String sortedName : sortedNames) {
