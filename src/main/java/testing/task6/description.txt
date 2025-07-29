@@ -1,0 +1,6 @@
+ Zadanie 6: Logowanie operacji z użyciem mocka
+Opis: Zaimplementuj klasę Calculator, która oprócz dodawania loguje wynik do LoggerService.
+ Przetestuj czy logger.log(...) zostało wywołane z odpowiednim komunikatem.
+Podpowiedź:
+• Użyj Mockito.mock()
+• Użyj verify(...)

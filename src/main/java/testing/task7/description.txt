@@ -1,0 +1,6 @@
+Zadanie 7: Pobieranie użytkownika z repozytorium
+Opis: Zaimplementuj UserService, który korzysta z UserRepository.
+Metoda getUserById(id) powinna zwracać użytkownika.
+Zmockuj repozytorium i napisz test, który sprawdzi, czy wynik jest poprawny.
+Podpowiedź:
+• Użyj when(...).thenReturn(...)

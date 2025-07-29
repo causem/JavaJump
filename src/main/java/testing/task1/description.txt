@@ -1,0 +1,5 @@
+Zadanie 1: Dodawanie dwóch liczb
+Opis: Napisz klasę Calculator z metodą add(int a, int b), która zwraca sumę dwóch liczb całkowitych.
+Następnie napisz test jednostkowy sprawdzający poprawność działania metody.
+Podpowiedź:
+• Użyj assertEquals(expected, actual) z JUnit 5

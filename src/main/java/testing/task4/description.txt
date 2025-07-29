@@ -1,0 +1,5 @@
+Zadanie 4: Sprawdzenie, czy napis jest pusty
+Opis: Napisz metodę isEmpty(String str), która zwraca true, jeśli napis jest pusty lub null. Przetestuj różne przypadki.
+Podpowiedź:
+• str == null || str.isEmpty()
+• assertTrue, assertFalse

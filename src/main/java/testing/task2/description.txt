@@ -1,0 +1,7 @@
+Zadanie 2:
+Sprawdzenie parzystości liczby
+Opis: Napisz metodę isEven(int n) zwracającą true, jeśli liczba jest parzysta.
+ Napisz testy dla liczb parzystych i nieparzystych.
+Podpowiedź:
+• n % 2 == 0
+• użyj assertTrue i assertFalse

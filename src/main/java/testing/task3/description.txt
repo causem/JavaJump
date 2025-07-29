@@ -1,0 +1,5 @@
+Zadanie 3: Odwracanie napisu
+Opis: Napisz metodę reverse(String input), która odwraca podany tekst. Napisz testy dla zwykłego tekstu, pustego ciągu i null.
+Podpowiedź:
+• new StringBuilder(input).reverse().toString()
+• assertEquals i assertNull
