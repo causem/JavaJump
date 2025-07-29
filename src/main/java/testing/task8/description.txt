@@ -1,0 +1,6 @@
+Zadanie 8: Obsługa wyjątku z repozytorium
+Opis: Repozytorium UserRepository rzuca wyjątek przy usuwaniu nieistniejącego użytkownika.
+Sprawdź, czy UserService.deleteUser(id) poprawnie reaguje na wyjątek.
+Podpowiedź:
+• Użyj doThrow(...)
+• Sprawdź wyjątek assertThrows(...)

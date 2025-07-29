@@ -1,0 +1,4 @@
+Zadanie 9: Sprawdzanie liczby wywołań metody
+Opis: Zmockuj obiekt i sprawdź, czy jego metoda została wywołana dokładnie określoną liczbę razy.
+Podpowiedź:
+• Użyj verify(mock, times(n))

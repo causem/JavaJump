@@ -1,0 +1,6 @@
+Zadanie 10: Zwracanie listy z mocka
+Opis: Zmockuj metodę getAllUsers() repozytorium tak, by zwracała listę 3 użytkowników.
+Sprawdź, czy serwis prawidłowo ją odczytuje.
+Podpowiedź:
+• Użyj Arrays.asList(...)
+• Użyj assertEquals(3, result.size())
