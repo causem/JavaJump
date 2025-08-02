@@ -32,3 +32,18 @@ SELECT name, age from cats WHERE breed = 'Tabby';
 SELECT cat_id, age
 FROM cats
 WHERE cat_id = age;
+
+-- change Jackson's name to Jack
+UPDATE cats
+SET name = 'Jack'
+WHERE name = 'Jackson';
+
+-- change Ringo's breed to British Shorthair
+UPDATE cats
+SET breed = 'British Shorthair'
+WHERE name = 'Ringo';
+
+-- update both Maine Coons ages to be 12
+UPDATE cats
+SET age = 12
+WHERE breed = 'Maine Coon';
