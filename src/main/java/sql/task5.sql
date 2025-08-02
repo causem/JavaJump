@@ -47,3 +47,14 @@ WHERE name = 'Ringo';
 UPDATE cats
 SET age = 12
 WHERE breed = 'Maine Coon';
+
+-- delete all 4 year old cats
+DELETE FROM cats
+WHERE age = 4;
+
+-- delete cats whose age is the same as their id
+DELETE FROM cats
+WHERE age = cat_id;
+
+-- delete all cats
+DELETE FROM cats;
