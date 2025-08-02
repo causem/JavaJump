@@ -1,0 +1,6 @@
+Zapis i odczyt z pliku (NIO).
+Zadanie: Zapisz listę zadań do pliku tekstowego i odczytaj z niego
+Stwórz listę List<String> z opisami zadań.
+Zapisz plik
+Odczytaj plik
+Dodatkowo sprawdź, czy plik istnieje przed odczytem (Files.exists()).
