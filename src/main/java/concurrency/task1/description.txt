@@ -1,0 +1,8 @@
+Zadanie: Uruchomienie testowego wątku generującego listę zadań
+• Utwórz klasę TaskGenerator implementującą Runnable.
+• W metodzie run() generuj 10 zadań (Task) z różnymi datami.
+• Uruchom wątek:
+Thread generatorThread = new Thread(new TaskGenerator());
+generatorThread.start();
+generatorThread.join();
+• Opcjonalnie spróbuj wersji z lambdą.
