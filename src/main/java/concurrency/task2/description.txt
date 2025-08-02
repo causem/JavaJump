@@ -1,0 +1,2 @@
+Program demonstruje dwa sposoby tworzenia wątków w Javie: przez dziedziczenie klasy Thread oraz implementację interfejsu Runnable.
+Każdy wątek wypisuje informację o swoim działaniu wraz z nazwą wątku.
